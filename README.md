@@ -9,5 +9,6 @@ dd2wp
 
 代码已经开源在github上面了，关键的在Convert.java文件中。  
 
-开源地址：https://github.com/dapengme/dd2wp
-下载地址：https://raw.github.com/dapengme/dd2wp/master/dd2wp.jar
+发布地址：[http://beardnote.com/?p=732](http://beardnote.com/?p=732)  
+开源地址：[https://github.com/dapengme/dd2wp](https://github.com/dapengme/dd2wp)   
+下载地址：[https://raw.github.com/dapengme/dd2wp/master/dd2wp.jar](https://raw.github.com/dapengme/dd2wp/master/dd2wp.jar)    
